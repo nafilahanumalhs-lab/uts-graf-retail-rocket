@@ -38,7 +38,9 @@ Versi library dapat disesuaikan dengan environment yang digunakan. Daftar depend
 
 ## Dataset
 
-Dataset yang digunakan adalah Retail Rocket, yang memuat interaksi pengguna terhadap item.
+Dataset yang digunakan adalah Retail Rocket, yang memuat interaksi pengguna terhadap item. 
+Windows PowerShell:
+curl.exe -L -o ecommerce-dataset.zip `ω→ https://www.kaggle.com/api/v1/datasets/download/retailrocket/ecommerce-dataset
 
 Secara umum, data interaksi mencakup atribut berikut:
 
