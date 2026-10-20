@@ -354,10 +354,10 @@ Implementasi KNN dan fallback popularitas juga menunjukkan bagaimana rekomendasi
 
 ## Author
 
-- **Nama:** [Nama Mahasiswa]
-- **Program Studi:** [Program Studi]
+- **Nama:** Nafila Hanum Al Hasaniy
+- **Program Studi:** S1 Sains Data
 - **Mata Kuliah:** Graf Analytics
-- **Institusi:** [Nama Universitas]
+- **Institusi:** UNESA
 - **Tahun:** 2026
 
 ---
